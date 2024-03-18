@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Wenqi Zhong received the B.Eng. degree from Civil Aviation University of China, Tianjin, China, in 2020. He received the M.S. degree from Northwestern Polytechnical University, Xi’an, China, in 2023. He is currently pursuing the Ph.D degree with the School of Automation, Northwestern Polytechnical University, Xi’an, China. His research interests include machine vision, scanpath, gaze estimation and saliency estimation.
+Wenqi Zhong is currently a second-year PhD student in School of Automation at the Northwestern Polytechnical University (NWPU), under the supervision of Prof. Junwei Han, Chen Xia, Dingwen Zhang. His research interests cover a range of topics in computer vision, machine learning and such as **scanpath, gaze estimation and saliency estimation. human-computer interaction (HCI), gaze modeling (), AI+health.**
+ <!-- received the B.Eng. degree from Civil Aviation University of China, Tianjin, China, in 2020. He received the M.S. degree from Northwestern Polytechnical University, Xi’an, China, in 2023. He is currently pursuing the Ph.D degree with the School of Automation, Northwestern Polytechnical University, Xi’an, China. His research interests include machine vision, medical -->
+
+BRain and Artificial INtelligence Lab, School of Automation
 
 News
 ======
+**[02/2024]** One paper is accepted to ***IEEE T-IP***, Q1, IF 10.6, CCF-A.
+**[12/2023]** One paper is accepted to ***AAAI'24***, CCF-A.
 
 Selected Publications
 ======
